@@ -309,3 +309,14 @@ li {
   }
 
 }
+.container-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.contact-img {
+  width: 100px;
+  height: auto;
+  margin-right: 20px;
+}
